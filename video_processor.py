@@ -17,12 +17,12 @@ class video_processor:
             print(e)
     
     def crop_and_save_image(self, image):
-        #Voederbak VDO3
+        #Voederbak VDO3 | Haal comment weg voor VOD 3 trainingdata en zet VOD4 in comment
 #        x=250
 #        w= x + 250
 #        y=325
 #        h= y + 250
-        # Voederbak LO VDO4
+        # Voederbak linksonder VOD4
         x=350
         w=x + 250
         y= 80
